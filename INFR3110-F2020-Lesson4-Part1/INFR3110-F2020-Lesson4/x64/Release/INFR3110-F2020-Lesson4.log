@@ -1,9 +1,0 @@
-﻿  GameObject.cpp
-  Main.cpp
-  Wrapper.cpp
-     Creating library C:\Users\LegoP\Desktop\INFR3110-F2020-Lesson4\x64\Release\INFR3110-F2020-Lesson4.lib and object C:\Users\LegoP\Desktop\INFR3110-F2020-Lesson4\x64\Release\INFR3110-F2020-Lesson4.exp
-  Generating code
-  Previous IPDB not found, fall back to full compilation.
-  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  INFR3110-F2020-Lesson4.vcxproj -> C:\Users\LegoP\Desktop\INFR3110-F2020-Lesson4\x64\Release\INFR3110-F2020-Lesson4.dll
